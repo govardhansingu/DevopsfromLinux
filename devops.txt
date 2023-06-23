@@ -9,3 +9,10 @@ Containers:
 Docker
 Docker sworm
 Kubernetis
+
+
+Jenkins
+Jira
+Ansible 
+Prometheus
+Grafana
